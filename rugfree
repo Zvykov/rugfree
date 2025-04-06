@@ -9,8 +9,7 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: url('https://i.imgur.com/eytGkOg.png') no-repeat center center fixed;
-      background-size: cover;
+      background: #000000; /* Черный фон */
       color: #ffffff;
       display: flex;
       flex-direction: column;
@@ -66,9 +65,9 @@
     No tricks. No hidden fees. Just real community and real memes.
   </p>
   <div class="buttons">
-    <a class="btn" href="https://x.com/yourprofile" target="_blank">Follow us on X</a>
-    <a class="btn" href="https://t.me/yourchannel" target="_blank">Join Telegram</a>
-    <a class="btn" href="https://yourwebsite.com" target="_blank">Visit Website</a>
+    <a class="btn" href="https://x.com/rugfreecoin" target="_blank">Follow us on X</a>
+    <a class="btn" href="https://t.me/yourchannel" target="_blank">Buy RUGFREE</a>
+    <a class="btn" href="https://yourwebsite.com" target="_blank">Telegram</a>
   </div>
 </body>
 </html>
